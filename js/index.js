@@ -32,3 +32,4 @@ let ress = Object.values(numberObj)
 let resss = ress.filter((item)=>typeof item == "number");
 console.log(resss.map((item)=> item + 2));
 
+console.log("Diyora💕");
